@@ -578,3 +578,6 @@ public class InterQuestions9 {
 
 ##### 算法思路
 stack1接收输入，如果要从队列删除元素，则先检查Stack2是否为空，不空则直接弹出一个元素。若stack2为空，则判断stack1是否为空，stack1为空，则队列中不存在元素；stack1不空，则依次把stack1中的元素弹出并压入stack2中去，然后stack2弹出一个元素。
+
+
+以上是每天9题的第一天，更多笔记请前往[CSDN个人博客](http://blog.csdn.net/zhoucheng05_13)查看http://blog.csdn.net/zhoucheng05_13
